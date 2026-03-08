@@ -1,7 +1,7 @@
 # Inverted Pendulum AI
 
 ## Download
-Download the <SIM> folder and <dqn_pendulum.pth>
+Download the SIM folder and dqn_pendulum.pth
 
 ## Required Python Libraries
 [pygame, numpy, torch]
@@ -11,7 +11,7 @@ pip install pygame
 
 
 ## Run Program
-Open the folder with <SIM> and <dqn_pendulum.pth> in VSCode
+Open the folder with SIM and dqn_pendulum.pth in VSCode
 run InvertedPendulum_SIM.py
 
 ## Controls
